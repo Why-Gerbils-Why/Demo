@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         mGoodbyeButton.setOnClickListener{
             mGoodbyeButton.visibility = View.INVISIBLE
             mGreeting.visibility = View.INVISIBLE
+
         }
     }
 }
